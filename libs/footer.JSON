@@ -1,0 +1,112 @@
+[
+    {
+        "id":1,
+        "title":"INFORMATION",
+        "links":[
+            {
+                "name":"About Us",
+                "path":"/about"
+            },
+            {
+                "name":"Delivery Information",
+                "path":"/delivery-info"
+            },
+            {
+                "name":"Privacy Policy",
+                "path":"/privacy-policy"
+            },
+            {
+                "name":"Terms & Conditions",
+                "path":"/terms"
+            },
+            {
+                "name":"Contact Us",
+                "path":"/contact"
+            },
+            {
+                "name":"Search",
+                "path":"/search"
+            },
+            {
+                "name":"Cart",
+                "path":"/cart"
+            },
+            {
+                "name":"Newsletter",
+                "path":"/newsletter"
+            },
+            {
+                "name":"Specials",
+                "path":"/specials"
+            }
+        ]
+    },
+    {
+        "id":2,
+        "title":"CUSTOMER SERVICE",
+        "links":[
+            {
+                "name":"Specials",
+                "path":"/specials"
+            },
+            {
+                "name":"Return",
+                "path":"/return"
+            },
+            {
+                "name":"Site Map",
+                "path":"/site-map"
+            },
+            {
+                "name":"Brands",
+                "path":"/brands"
+            },
+            {
+                "name":"Gift Certificates",
+                "path":"/gift-certificates"
+            },
+            {
+                "name":"Downloads",
+                "path":"/downloads"
+            },
+            {
+                "name":"Transaction",
+                "path":"/transaction"
+            },
+            {
+                "name":"Blogs",
+                "path":"/blogs"
+            }
+        ]
+    },
+    {
+        "id":3,
+        "title":"MY ACOOUNT",
+        "links":[
+            {
+                "name":"My Account",
+                "path":"/account"
+            },
+            {
+                "name":"Order History",
+                "path":"/order-history"
+            },
+            {
+                "name":"Wish List",
+                "path":"/wishlist"
+            },
+            {
+                "name":"Compare",
+                "path":"/compare"
+            },
+            {
+                "name":"Checkout",
+                "path":"/checkout"
+            },
+            {
+                "name":"Cart",
+                "path":"/cart"
+            }
+        ]
+    }
+]
